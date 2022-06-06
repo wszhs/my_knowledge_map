@@ -11,7 +11,7 @@
 
 
 ## Game Theory
-- [game theory](game_theory/game_theory)
+- [game theory](game_theory/game_theory.md)
 ***
 
 ## Adversarial Machine Learning
