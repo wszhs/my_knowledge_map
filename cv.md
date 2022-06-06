@@ -59,7 +59,7 @@ Furthermore, I want to explore a series of explanatory methods based on cooperat
 
 - CARE: Ensemble Adversarial Robustness Evaluation Against Adaptive Attackers for Security Applications.
   - **H. Zhang**, Y. Liu, J. Sun, J. Liu
-  - [[CARE](https://github.com/wszhs/Cyber-Security-ML-Toolbox/blob/master/CARE.md)] is a general platform for testing the robustness of security applications against adaptive attackers.
+  - [[CARE](https://github.com/wszhs/Cyber-Security-ML-Toolbox/blob/master/CARE.md)] is a general platform for testing the robustness of ensemble security applications against adaptive attackers.
   
 - BayesAttack: Query-Efficient End-to-end Adversarial Attacks against Security Detectors via Bayesian Optimization.
   - **H. Zhang**, D. Hang, Y. Liu, Z. Wang
