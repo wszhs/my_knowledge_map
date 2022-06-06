@@ -46,7 +46,7 @@
 <!-- 研究兴趣 -->
 ## <img src="resume/info.svg" height="20px"> Research Interests
 - My research field is **Trustworthy AI for Cyber Security**. My current research interests are game theory-based Adversarial Machine Learning and Explainable Machine Learning for security applications, including network intrusion detection and windows malware detection.
-Specifically, my main focus is generating transferable and practical adversarial examples and improving robust generalization for adversarial training based on minimax games.
+Specifically, my main focuses are minimax games-based generating transferable and practical adversarial examples and improving robust generalization for adversarial training.
 Furthermore, I want to explore a series of explanatory methods based on cooperative games for cyber security.
 
 <!-- 文章 -->
@@ -54,32 +54,32 @@ Furthermore, I want to explore a series of explanatory methods based on cooperat
 
 ### Current Works
 - Explainable and Transferable Adversarial Attack for ML-Based Network Intrusion Detectors.
-  - H. Zhang, D. Hang, Y. Liu, Z. Wang
+  - **H. Zhang**, D. Hang, Y. Liu, Z. Wang
   - [[introduction](https://github.com/wszhs/Cyber-Security-ML-Toolbox/blob/master/ETA.md)]
 
 - CARE: Ensemble Adversarial Robustness Evaluation Against Adaptive Attackers for Security Applications.
-  - H. Zhang, Y. Liu, J. Sun, J. Liu
+  - **H. Zhang**, Y. Liu, J. Sun, J. Liu
   - [[introduction](https://github.com/wszhs/Cyber-Security-ML-Toolbox/blob/master/CARE.md)]
   
 - Query-Efficient End-to-end Adversarial Attacks against Security Detectors via Bayesian Optimisation.
-  - H. Zhang, D. Hang, Y. Liu, Z. Wang
+  - **H. Zhang**, D. Hang, Y. Liu, Z. Wang
   - [[introduction](https://github.com/wszhs/Cyber-Security-ML-Toolbox/blob/master/BayesAttack.md)]
 
 ### Publications
 - StinAttack: A Lightweight and Effective Adversarial Attack Simulation to Ensemble IDSs for Satellite-Terrestrial Integrated Network.
-  - S. Zhuang, J. Sun, H. Zhang, X. kuang
+  - S. Zhuang, J. Sun, **H. Zhang**, X. kuang
   - IEEE ISCC. 2021 Conference Paper
 
 - A Survey on Optimizing Intrusion Detection and Response Based on Game Theory.
-  - H. Zhang, J. Liu, J. Liang, H. Liu
+  - **H. Zhang**, J. Liu, J. Liang, H. Liu
   - Journal of Cyber Security
 
 - Defense Against Advanced Persistent Threats: Optimal Network Security Hardening Using Multi-stage Maze Network Game.
-  - H. Zhang, H. Liu, J. Liang, T. Li
+  - **H. Zhang**, H. Liu, J. Liang, T. Li
   - IEEE ISCC 2020 Conference Paper
 
 - Privacy-Aware Online Task Offloading for Mobile-Edge Computing.
-  - T. Li, H. Liu, J. Liang, H. Zhang
+  - T. Li, H. Liu, J. Liang, **H. Zhang**
   - Springer WASA 2020 Conference Paper 
 
 ***
