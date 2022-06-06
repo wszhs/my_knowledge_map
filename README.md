@@ -60,17 +60,17 @@
 - [Base](AI_engineering/AI_knowledge.md)
 - [AI Test](AI_engineering/ml_test.md)
 
-### data
+### Data
 - [data validation](AI_engineering/data/data_validation.md)
 - [active learning](AI_engineering/data/active_learning.md)
 
-### feature
+### Feature
 - [feature engineering](AI_engineering/feature/feature_engineering.md)
 
-### model and train
+### Model and train
 - [Model and Train](AI_engineering/model_and_train/model_and_train.md)
 
-## others
+## Others
 - [How to use Markdown](https://zhuanlan.zhihu.com/p/458096897)
 - [cv](cv.md)
 
