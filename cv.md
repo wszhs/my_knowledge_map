@@ -55,7 +55,7 @@ Furthermore, I want to explore a series of explanatory methods based on cooperat
 ### Current Works
 - Explainable and Transferable Adversarial Attack for ML-Based Network Intrusion Detectors.
   - H. Zhang, D. Hang, Y. Liu, Z. Wang
-  - [[introduction](https://github.com/wszhs/my_knowledge_map/ETA.md)]
+  - [[introduction](https://github.com/wszhs/my_knowledge_map/blob/master/ETA.md)]
 
 - CARE: Ensemble Adversarial Robustness Evaluation Against Adaptive Attackers for Security Applications.
   - H. Zhang, Y. Liu, J. Sun, J. Liu
