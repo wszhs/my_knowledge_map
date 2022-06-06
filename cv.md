@@ -55,7 +55,7 @@ Furthermore, I want to explore a series of explanatory methods based on cooperat
 ### Current Works
 - Explainable and Transferable Adversarial Attack for ML-Based Network Intrusion Detectors.
   - **H. Zhang**, D. Hang, Y. Liu, Z. Wang
-  - [[introduction](https://github.com/wszhs/Cyber-Security-ML-Toolbox/blob/master/ETA.md)]
+  - [[introduction](https://github.com/wszhs/Cyber-Security-ML-Toolbox/blob/master/ETA.md)] ETA is a general Explainable Transfer-based black-box adversarial Attack framework aiming to 1) craft transferable adversarial examples across various types of ML models and 2) explain why adversarial examples and adversarial transferability exist in NIDSs.
 
 - CARE: Ensemble Adversarial Robustness Evaluation Against Adaptive Attackers for Security Applications.
   - **H. Zhang**, Y. Liu, J. Sun, J. Liu
