@@ -18,7 +18,6 @@
 
 ### Adversarial Machine Learning
 - [The history of adversarial machine learning](adversarial_ml/general/adversarial_ml.md)
-- [Adversarial Attack Algorithm](adversarial_ml/general/attack_algorithm.md)
 - Adversarial Attack
   - <font size=4>[Query-based adversarial attack](adversarial_ml/general/attack/query-based/query_based_attack.md)</font>
   - <font size=4>[Transfer-based adversarial attack](adversarial_ml/general/attack/transfer-based/transfer_based_attack.md)</font>
