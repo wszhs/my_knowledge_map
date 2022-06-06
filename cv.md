@@ -86,7 +86,7 @@ Furthermore, I want to explore a series of explanatory methods based on cooperat
 <!-- 研究项目 -->
 ## <img src="resume/project.svg" height="20px"> Research Projects
 
-- Trusted-AI for Cyber Security <span class="right" style="float:right">2020.1 ~ present</span>
+- Trusted-AI for Cyber Security <span class="right" style="float:right">2021.1 ~ present</span>
   - **Project properties**: self-entertainment.
   - **Introduction**: The details of the project can be found '[Cyber-Security-ML-Toolbox](https://github.com/wszhs/Cyber-Security-ML-Toolbox)'
 
