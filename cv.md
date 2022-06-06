@@ -87,12 +87,12 @@ Furthermore, I want to explore a series of explanatory methods based on cooperat
 ## <img src="resume/project.svg" height="20px"> Research Projects
 
 - Trusted-AI for Cyber Security <span class="right" style="float:right">2021.1 ~ present</span>
-  - **Project properties**: self-entertainment.
+  - **Project properties**: Self-entertainment
   - **Introduction**: The details of the project can be found '[Cyber-Security-ML-Toolbox](https://github.com/wszhs/Cyber-Security-ML-Toolbox)'
 
 - Cyberspace Intelligent and Active Defense Platform <span class="right" style="float:right">2018.7 ~ 2020.3</span>
   - Introduction: A response to the increasing severity of security threats and the actual need of tracing APT attacks, the Institute of Information Technology, Chinese Academy of Sciences, and Beijing Qi'anxin Technology Co., Ltd. developed a closed-loop defense system, which links data and intelligence as the focus, enabling detection, early warning, and response.
-  - **Project properties**: Beijing Key R&D Program.
+  - **Project properties**: Beijing Key R&D Program
   - **Our works**: 
     - Develop threat verification and forensics subsystem based on *ossim* source code
     - Design Threat detection algorithm
