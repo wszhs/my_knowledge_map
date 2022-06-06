@@ -53,7 +53,7 @@ Furthermore, I want to explore a series of explanatory methods based on cooperat
 ## <img src="resume/email.svg" height="20px"> Papers
 
 ### Current Works
-- Explainable and Transferable Adversarial Attack for ML-Based Network Intrusion Detectors.
+- ETA: Explainable and Transferable Adversarial Attack for ML-Based Network Intrusion Detectors.
   - **H. Zhang**, D. Hang, Y. Liu, Z. Wang
   - [[ETA](https://github.com/wszhs/Cyber-Security-ML-Toolbox/blob/master/ETA.md)] is a general Explainable Transfer-based black-box adversarial Attack framework aiming to 1) craft transferable adversarial examples across various types of ML models and 2) explain why adversarial examples and adversarial transferability exist in NIDSs.
 
@@ -61,9 +61,9 @@ Furthermore, I want to explore a series of explanatory methods based on cooperat
   - **H. Zhang**, Y. Liu, J. Sun, J. Liu
   - [[CARE](https://github.com/wszhs/Cyber-Security-ML-Toolbox/blob/master/CARE.md)] is a platform for testing the robustness of security applications against adaptive attackers.
   
-- Query-Efficient End-to-end Adversarial Attacks against Security Detectors via Bayesian Optimisation.
+- BayesAttack: Query-Efficient End-to-end Adversarial Attacks against Security Detectors via Bayesian Optimization.
   - **H. Zhang**, D. Hang, Y. Liu, Z. Wang
-  - [[introduction](https://github.com/wszhs/Cyber-Security-ML-Toolbox/blob/master/BayesAttack.md)]
+  - [[BayesAttack](https://github.com/wszhs/Cyber-Security-ML-Toolbox/blob/master/BayesAttack.md)] is a general bayesian Optimization-based adversarial attack framework aiming to address two critical requirements in practice: 1) achieving a query-effective black-box attack, 2) directly modifying the original entities, and meeting problem-space constraints.
 
 ### Publications
 - StinAttack: A Lightweight and Effective Adversarial Attack Simulation to Ensemble IDSs for Satellite-Terrestrial Integrated Network.
