@@ -45,8 +45,8 @@
 
 <!-- 研究兴趣 -->
 ## <img src="resume/info.svg" height="20px"> Research Interests
-- My research field is **Trustworthy AI for Cyber Security**. My current research interests are in Adversarial Machine Learning and Explainable Machine Learning based on game theory for security application, including network intrusion detection and windows malware detection.
-Specifically, my main focus is on generating transferable and practical adversarial examples and improving robust generalization for adversarial training based on minimax games.
+- My research field is **Trustworthy AI for Cyber Security**. My current research interests are game theory-based Adversarial Machine Learning and Explainable Machine Learning for security applications, including network intrusion detection and windows malware detection.
+Specifically, my main focus is generating transferable and practical adversarial examples and improving robust generalization for adversarial training based on minimax games.
 Furthermore, I want to explore a series of explanatory methods based on cooperative games for cyber security.
 
 <!-- 文章 -->
