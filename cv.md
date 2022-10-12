@@ -67,10 +67,6 @@ Furthermore, I want to explore a series of explanatory methods based on cooperat
   - [[BayesAttack](https://github.com/wszhs/Cyber-Security-ML-Toolbox/blob/master/BayesAttack.md)] is a practical bayesian Optimization-based adversarial attack framework aiming to address two critical requirements in practice: 1) achieving a query-effective black-box attack, 2) directly modifying the original entities, and meeting problem-space constraints.
 
 ### Publications
-- StinAttack: A Lightweight and Effective Adversarial Attack Simulation to Ensemble IDSs for Satellite-Terrestrial Integrated Network.
-  - S. Zhuang, J. Sun, **H. Zhang**, X. kuang
-  - IEEE ISCC. 2021 Conference Paper
-
 - A Survey on Optimizing Intrusion Detection and Response Based on Game Theory.
   - **H. Zhang**, J. Liu, J. Liang, H. Liu
   - Journal of Cyber Security
@@ -78,6 +74,14 @@ Furthermore, I want to explore a series of explanatory methods based on cooperat
 - Defense Against Advanced Persistent Threats: Optimal Network Security Hardening Using Multi-stage Maze Network Game.
   - **H. Zhang**, H. Liu, J. Liang, T. Li
   - IEEE ISCC 2020 Conference Paper
+
+- NashAE: A Robust Encrypted Malware Traffic Detector by Nash Adversarial Ensemble Learning
+  - **H. Zhang**, H. Liu, J. Liang, T. Li
+  - IEEE MILCOM 2022 Conference Paper
+  
+- StinAttack: A Lightweight and Effective Adversarial Attack Simulation to Ensemble IDSs for Satellite-Terrestrial Integrated Network.
+  - S. Zhuang, J. Sun, **H. Zhang**, X. kuang
+  - IEEE ISCC. 2021 Conference Paper
 
 - Privacy-Aware Online Task Offloading for Mobile-Edge Computing.
   - T. Li, H. Liu, J. Liang, **H. Zhang**
