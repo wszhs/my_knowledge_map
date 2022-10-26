@@ -71,5 +71,4 @@
 
 ## Others
 - [How to use Markdown](https://zhuanlan.zhihu.com/p/458096897)
-- [cv](cv.md)
 
